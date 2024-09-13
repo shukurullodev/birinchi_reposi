@@ -37,4 +37,5 @@ int main(){
      printf("%d\n",talab->taj+1);
     }
  }
+ printf("Shukurillooh q alesan");
 }
